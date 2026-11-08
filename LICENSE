@@ -1,0 +1,10 @@
+Licence summary
+===============
+Code (code/, *.bat, *.R, *.py): MIT License.
+Copyright (c) 2026 Truong Nhat Duy.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated files, to deal in the software without restriction, subject to inclusion of this notice. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Text, figures, tables and PDFs (*.tex, *.bib, figures/, docs/pdf/, robust_out/):
+Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+
+Third-party material (bibliographic metadata, fonts if added) remains under its own terms.

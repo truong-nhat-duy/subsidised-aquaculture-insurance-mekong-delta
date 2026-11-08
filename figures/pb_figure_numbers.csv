@@ -1,0 +1,47 @@
+figure,quantity,value,note
+F1a,avg_2014_2023_bn,21181,"88.748/4,19 (VOV 30/12/2024)"
+F1a,sum_2024_2025_bn,187425,
+F1b,storms_2025,16,
+F1b,max_storms_1980_2024,15,
+F1b,very_strong_1980s,9,of 98 storms
+F1b,very_strong_1990s,9,of 108 storms
+F1b,very_strong_2000s,9,of 82 storms
+F1b,very_strong_2010s,14,of 91 storms
+F1b,very_strong_2020s,12,of 61 storms
+F1c,mhw_1999_2009,6.6,
+F1c,mhw_2015_2024,53.2,
+F1c,mhw_2024,141.8,
+F2,pilot_shrimp_share_2024,0.729,
+F2,pilot_ts_share,0.055,
+F2,island_parts_drawn,13,
+F2b,storm_LINDA_1997_maxwind_kt,65.0,
+F2b,storm_XANGSANE_2006_maxwind_kt,125.0,
+F2b,storm_DURIAN_2006_maxwind_kt,135.0,
+F2b,storm_KETSANA_2009_maxwind_kt,90.0,
+F2b,storm_WUTIP_2013_maxwind_kt,100.0,
+F2b,storm_DAMREY_2017_maxwind_kt,90.0,
+F2b,storm_MOLAVE_2020_maxwind_kt,105.0,
+F2b,storm_NORU_2022_maxwind_kt,145.0,
+F2b,storm_YAGI_2024_maxwind_kt,145.0,
+F2b,storm_BUALOI_2025_maxwind_kt,80.0,
+F2b,storm_KALMAEGI_2025_maxwind_kt,115.0,
+F3,mekong_drought_2000_2011,4,
+F3,mekong_drought_2012_2022,23,
+F3,per_province_Bắc Bộ,9.27/3.45/0.00,storm/flood/drought
+F3,per_province_Bắc Trung Bộ,16.67/16.50/0.00,storm/flood/drought
+F3,per_province_Nam Trung Bộ,11.38/13.75/0.88,storm/flood/drought
+F3,per_province_ĐBSCL,1.08/5.62/2.08,storm/flood/drought
+F3,aqua_share_2024_Bắc Bộ,0.16,
+F3,aqua_share_2024_Bắc Trung Bộ,0.036,
+F3,aqua_share_2024_Nam Trung Bộ,0.019,
+F3,aqua_share_2024_ĐBSCL,0.719,
+F4,pilot_premium_bn,218.1,
+F4,pilot_claims_bn,675.9,
+F4,claims_over_premium,3.1,
+F5,"zone=False,sub50=False",cover=40.8; cost=100.0,
+F5,"zone=False,sub50=True",cover=65.0; cost=140.5,
+F5,"zone=True,sub50=False",cover=54.1; cost=94.8,
+F5,"zone=True,sub50=True",cover=81.1; cost=142.7,
+F6a,sdid_ln_q,"0.016 [-0.113,0.144] placebo -0.014 mde 0.184",
+F6a,sdid_ln_shrimp,"0.110 [-0.115,0.335] placebo 0.090 mde 0.322",
+F6a,sdid_ln_fish,"-0.110 [-0.373,0.153] placebo -0.104 mde 0.376",

@@ -1,0 +1,29 @@
+% ---------- shared preamble for paper_en.tex and paper_vi.tex ----------
+\usepackage{fontspec}
+\IfFontExistsTF{Times New Roman}{\setmainfont{Times New Roman}}{\setmainfont{TeX Gyre Termes}}
+\usepackage{geometry}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[table]{xcolor}
+\definecolor{ndblue}{RGB}{12,35,64}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{booktabs,tabularx,array,multirow,longtable,threeparttable}
+\usepackage{amsmath,amssymb,bm}
+\usepackage{csquotes}
+\usepackage{float}
+\usepackage{enumitem}
+\setlist{itemsep=2pt,topsep=3pt}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf,justification=justified,singlelinecheck=false}
+\usepackage{titlesec}
+\titleformat{\section}{\bfseries\large}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\bfseries\normalsize}{\thesubsection.}{0.5em}{}
+\titleformat{\subsubsection}{\itshape\normalsize}{\thesubsubsection.}{0.5em}{}
+\usepackage{xurl}
+\usepackage{float}
+\usepackage[colorlinks=true,linkcolor=ndblue,citecolor=ndblue,urlcolor=ndblue]{hyperref}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcommand{\EV}{\mathbb{E}}
+\newcommand{\srcnote}[1]{{\footnotesize\textit{#1}}}

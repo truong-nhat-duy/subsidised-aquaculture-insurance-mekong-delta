@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Why Subsidised Aquaculture Insurance Does Not Reach Farmers: Climate Hazards, Trigger Design and Risk-Based Pricing in Vietnam's Mekong Delta"
+type: report
+authors:
+  - family-names: Truong
+    given-names: Nhat Duy
+date-released: 2026-11-08
+version: 0.1.0
+url: "https://github.com/truong-nhat-duy/subsidised-aquaculture-insurance-mekong-delta"
+license: CC-BY-4.0
